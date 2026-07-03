@@ -1,11 +1,9 @@
-- 👋 Hi, I’m @krishnachaithanya8005
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @krishnachaithanya8055
+- 👀 I’m interested in learing coding 
+- 🌱 I’m currently learning python
 
 <!---
-krishnachaithanya8005/krishnachaithanya8005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+krishnachaithanya8005/krishnachaithanya8055 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 <h1>KCR</h1>
